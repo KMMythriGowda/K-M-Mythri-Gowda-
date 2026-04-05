@@ -12,7 +12,7 @@ I design and build scalable, real-world applications by combining **data-driven 
 - Building → Data-driven and smart application projects
 - Exploring → Generative AI, Backend Development & Cloud Technologies
 - Ask me about → Python, SQL, R, Machine Learning, Data Analysis
-- Open to → Internships, research collaborations & open-source projects
+- Open to → Internships, research collaborations & open-source projects 
 
 ## ⚙️ Technologies I Work With
 
