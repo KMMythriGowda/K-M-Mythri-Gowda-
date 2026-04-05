@@ -60,8 +60,6 @@ I design and build scalable, real-world applications by combining **data-driven 
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=yourusername&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true)
-
 ---
 
 ## 🌐 Connect with Me
