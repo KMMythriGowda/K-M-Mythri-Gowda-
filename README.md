@@ -19,8 +19,6 @@ I design and build scalable, real-world applications by combining **data-driven 
 
 ## ⚙️ Technologies I Work With
 
-## 🛠️ Tech Stack
-
 ### 💻 Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
@@ -45,7 +43,6 @@ I design and build scalable, real-world applications by combining **data-driven 
 ---
 
 ## 🏆 Certifications
-## 🏆 Certifications
 
 [![Tata GenAI Data Analytics](https://img.shields.io/badge/Tata-GenAI%20Data%20Analytics-blue?style=for-the-badge&logo=tata&logoColor=white)](your-link)
 
@@ -59,8 +56,6 @@ I design and build scalable, real-world applications by combining **data-driven 
 
 ## 📊 GitHub Stats
 
-## 📊 GitHub Stats
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=yourusername&theme=tokyonight&hide_border=true)
@@ -68,8 +63,6 @@ I design and build scalable, real-world applications by combining **data-driven 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
-
-## 🌐 Connect with Me
 
 ## 🌐 Connect with Me
 
