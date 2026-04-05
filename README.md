@@ -64,4 +64,4 @@ I design and build scalable, real-world applications by combining **data-driven 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-K%20M%20Mythri%20Gowda-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/k-m-mythri-gowda28)
 
-[![Gmail](https://img.shields.io/badge/Gmail-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:9035144107@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mythrig386@gmail.com)
